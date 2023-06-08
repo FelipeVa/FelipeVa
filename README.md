@@ -1,5 +1,5 @@
 # 💫 Hey! Welcome to my profile
-I am a 23 years old Software Developer & Industrial Engineer from Colombia with more than 4 years of experience in the industry. I have worked in different projects, from small to large, and I have been able to learn a lot from them. 
+I am a Software Developer & Industrial Engineer from Colombia with more than 4 years of experience in the industry. I have worked in different projects, from small to large, and I have been able to learn a lot from them. 
 <br>
 <br>
 🔭 I’m currently working for: **OCMI Workers Comp** & **LifeSpikes** as a **Full Stack Developer**.
