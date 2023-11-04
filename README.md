@@ -2,8 +2,6 @@
 I am a Software Developer & Industrial Engineer from Colombia with more than 4 years of experience in the industry. I have worked in different projects, from small to large, and I have been able to learn a lot from them. 
 <br>
 <br>
-🔭 I’m currently working as a **Software Engineer**.
-<br>
 💬 Ask me about: Anything! I love to help people and I am always open to new ideas and projects.
 <br>
 ⚡ Fun fact: I bought a magic mouse, but I only use the magic trackpad :( (I am a Mac user).
